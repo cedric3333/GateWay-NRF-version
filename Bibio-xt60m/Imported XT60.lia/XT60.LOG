@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : XT60.LibPkg
+
+Section : E:\MADAR-Stage\Carte-FarmaLabs\Bibio-xt60m\XT60.lia
+    Section : PCB Library - XT60.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token XT60_YELLOW On Line 136
+            Warning - 1 : Skipping Token attachedSymbol On Line 183
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - XT60.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 128
+        EndSection
+
+        Section : Generating SCH Library - XT60.SchLib
+        EndSection
+    EndSection
+EndSection

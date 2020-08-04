@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : Nodemcu_esp8266.LibPkg
+
+Section : E:\MADAR-Stage\Carte-FarmaLabs\Bibio-Nodemcu-esp8266\Nodemcu_esp8266.lia
+    Section : PCB Library - Nodemcu_esp8266.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ZC563900 On Line 214
+            Warning - 1 : Skipping Token attachedSymbol On Line 541
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Nodemcu_esp8266.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 143
+            Warning - 1 : Skipping Token layerContents On Line 171
+            Warning - 1 : Skipping Token layerContents On Line 199
+            Warning - 1 : Skipping Token layerContents On Line 205
+        EndSection
+
+        Section : Generating SCH Library - Nodemcu_esp8266.SchLib
+        EndSection
+    EndSection
+EndSection
